@@ -33,9 +33,9 @@ Install dependencies via pip:
     * Column 7+: Coordinate triplets (X, Y, Z).
 
 2.  **Run the script**:
-    python coords_transform.py
+`python coords_transform.py`
 
-3.  **Output**:
+4.  **Output**:
     * A 3D plot will open showing the spatial clusters (specifically filtered for Class ID '29' in the default visualization).
     * A new file `sign_coordinates.csv` will be created with categorized group data.
 
